@@ -46,7 +46,7 @@ const Hero: React.FC = () => {
               <Trophy className="w-12 h-12 text-blue-400" />
             </div>
             <h3 className="text-xl font-bold text-white mb-2">Compete</h3>
-            <p className="text-gray-400">Represent TJ in prestigious competitions like USACO, Google Code Jam, and more.</p>
+            <p className="text-gray-400">Represent TJ in prestigious competitions like USACO, MITIT, Lockheed Martin and more.</p>
           </div>
           <div className="bg-slate-800/70 backdrop-blur p-6 rounded-xl border border-slate-700 hover:border-blue-500/50 transition-all transform hover:-translate-y-1 hover:shadow-blue-500/10 hover:shadow-lg">
             <div className="flex justify-center mb-4">
